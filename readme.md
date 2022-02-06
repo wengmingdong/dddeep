@@ -5,7 +5,7 @@
 http://124.222.36.194/
 ```
 ### 部署架构
-![](./pic/whole.png)
+![image](pic/whole.png)
 ### 总体界面
 ![](pic/face.png)
 ### 基本流程
@@ -33,7 +33,7 @@ http://124.222.36.194/
 ```
 http://124.222.36.194/images/dog.jpg
 http://124.222.36.194/images/cat.jpg
-```
+```/pic/whole.png)
 ## yolov5目标检测
 ##### 数据目录
 ![](pic/yolov5_data_struct.png)
