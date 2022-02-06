@@ -5,7 +5,7 @@
 http://124.222.36.194/
 ```
 ### 部署架构
-![](pic/whole.png)
+![](./pic/whole.png)
 ### 总体界面
 ![](pic/face.png)
 ### 基本流程
